@@ -1,6 +1,6 @@
 function StepsHeader() {
     return (
-        <header className="orders-steps-conteiner" >
+        <header className="orders-steps-container" >
             <div className="orders-steps-content">
                 <h1 className="steps-title">
                     SIGA AS <br /> ETAPAS
@@ -17,7 +17,6 @@ function StepsHeader() {
                     </li>
                 </ul>
             </div>
-
         </header>
     )
 }

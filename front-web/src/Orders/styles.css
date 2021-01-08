@@ -1,8 +1,8 @@
-.orders-container {
-    /* height: calc(100vh - 190px); */
-    background-color: var(--light-color);
+  .orders-container {
+      /* height: calc(100vh - 190px); */
+      background-color: var(--light-color);
 
-}
+  }
   
   .orders-container h3 {
     margin: 0;
@@ -17,7 +17,6 @@
   
   .orders-steps-content {
     display: flex;
-    justify-content: center;
     text-align: center;
     padding: 25px 0;
     width: 70%;
